@@ -1,0 +1,4 @@
+EMPLOYEE_ID,FIRST_NAME,LAST_NAME,DEPARTMENT_ID,DEPARTMENT_NAME,LOCATION_ID,Full_name,Upper_case
+100,Steven,King,90,Executive,1700,Steven King,STEVEN
+101,Neena,Kochhar,90,Executive,1700,Neena Kochhar,NEENA
+102,Lex,De Haan,90,Executive,1700,Lex De Haan,LEX
